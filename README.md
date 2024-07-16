@@ -41,6 +41,4 @@ The JavaScript file handles the functionality of the calculator, including butto
 
 Feel free to submit issues and enhancement requests.
 
-## License
 
-This project is licensed under the MIT License.
